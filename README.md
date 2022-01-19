@@ -1,1 +1,1 @@
-# python_for_beginner
+# python for beginner course, Organized by EMK.
